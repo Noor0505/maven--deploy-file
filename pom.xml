@@ -14,7 +14,7 @@
   <distributionManagement>
     <repository>
       <id>Noor0505</id>
-      <url>https://maven.pkg.github.com/Noor0505/maven-deployment-file</url>
+      <url>https://maven.pkg.github.com/Noor0505/maven--deployment-file</url>
     </repository>
   </distributionManagement>
 </project>
