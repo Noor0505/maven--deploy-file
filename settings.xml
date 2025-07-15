@@ -5,7 +5,7 @@
   <servers>
     <server>
       <id>Noor0505</id>
-      <username>${env.GITHUB_USERNAME}</usernam>
+      <username>${env.GITHUB_USERNAME}</username>
       <password>${env.GITHUB_TOKEN}</password>
     </server>
   </servers>
