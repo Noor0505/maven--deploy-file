@@ -4,8 +4,8 @@
                               https://maven.apache.org/xsd/settings-1.0.0.xsd">
   <servers>
     <server>
-      <id>bubu-afk</id>
-      <username>${env.GITHUB_USERNAME}</username>
+      <id>Noor0505</id>
+      <username>${env.GITHUB_USERNAME}</usernam>
       <password>${env.GITHUB_TOKEN}</password>
     </server>
   </servers>
